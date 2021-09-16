@@ -1,0 +1,22 @@
+{
+  "name": "repbot",
+  "version": "1.0.0",
+  "description": "Discord bot that allows people to give reputation to another person",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TTVMuumi/RepBot.git"
+  },
+  "author": "muumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTVMuumi/RepBot/issues"
+  },
+  "homepage": "https://github.com/TTVMuumi/RepBot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
